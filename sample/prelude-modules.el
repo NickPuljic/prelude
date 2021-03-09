@@ -41,7 +41,7 @@
 
 ;;; General productivity tools
 
-;; (require 'prelude-ido) ;; Supercharges Emacs completion for C-x C-f and more
+(require 'prelude-ido) ;; Supercharges Emacs completion for C-x C-f and more
 (require 'prelude-ivy) ;; A mighty modern alternative to ido
 ;; (require 'prelude-selectrum) ;; A powerful, yet simple, alternative to ivy
 ;; (require 'prelude-helm) ;; Interface for narrowing and search
@@ -81,7 +81,7 @@
 (require 'prelude-lsp) ;; Base setup for the Language Server Protocol
 ;; (require 'prelude-ocaml)
 (require 'prelude-perl)
-;; (require 'prelude-python)
+(require 'prelude-python)
 ;; (require 'prelude-ruby)
 ;; (require 'prelude-rust)
 ;; (require 'prelude-scala)
